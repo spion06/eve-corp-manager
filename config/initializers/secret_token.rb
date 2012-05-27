@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-EveCorpManager::Application.config.secret_token = '403d38c19bea737ad4488c1612fc9d17216b7984bbb935f6ebb1fb367b1527c19acfcac58bf6225501afac9293fb39ab6c85be302f4e939e4f5bcb874fb016dd'
+EveCorpManager::Application.config.secret_token = 'b76864db71f34d6c6a50a569362bdd6030ff1646bc4abde96352e049afe4561197cbca90ff5e71817b1e84fb84ce89eb8b5872b72298293f76f34ef7838c150f'
